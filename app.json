@@ -1,0 +1,7 @@
+{
+  "name": "Django Heroku 301",
+  "description": "A barebones Django app to simply do 301 redirects with heroku..",
+  "repository": "https://github.com/FullBoreStudios/heroku-301",
+  "logo": "https://i.imgur.com/wJ5I0PJ.png",
+  "keywords": ["django", "301", "heroku"]
+}
