@@ -6,10 +6,11 @@ Simple deploy-to-heroku app for redirecting this-domain.com to that-domain.com
 Setup and deploying
 ------------
 
- 1. Change domain name in domain.py inside redirect folder
- 2. Click deploy to heroku
- 3. Assign domains to heroku app
- 4. Add DNS entries
+ 1. Clone this repository
+ 2. Change domain name in domain.py inside redirect folder
+ 3. Click deploy to heroku
+ 4. Assign domains to heroku app
+ 5. Add DNS entries
  
  Screenshots from cloudflare and heroku for example
  
