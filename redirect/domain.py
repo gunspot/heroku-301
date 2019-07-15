@@ -1,1 +1,1 @@
-redirect_domain = 'fbstudios.com'
+redirect_domain = 'gunspot.com'
